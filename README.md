@@ -1,5 +1,5 @@
-# The design of a spatial context-aware routing system based on air pollution mastr thesis code
-This repository contains some code files that provided for my master thesis from the University of Tehran presents the design of a spatial context-aware routing system based on air pollution. The research addresses the significant health issue of air pollution in Tehran, aiming to provide healthier travel routes for individuals with conditions like asthma, which are exacerbated by poor air quality.
+# Thesis: A Spatial Context-Aware Routing System Based on Air Pollution
+This repository contains the code for my Master's thesis, defended at the University of Tehran. The thesis presents the design of a spatial context-aware routing system based on air pollution data. The research addresses the significant health issue of air pollution in Tehran, aiming to provide healthier travel routes for individuals with conditions like asthma, which are exacerbated by poor air quality.
 
 The methodology involved several stages:
 
