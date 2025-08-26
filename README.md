@@ -10,8 +10,4 @@ Asthma Risk Mapping: A map showing the probability of asthma occurrence was crea
 
 Context-Aware Routing: The resulting asthma probability map was used to assign weights to Tehran's road network. The Dijkstra algorithm was then implemented to find the optimal route between a specified origin and destination, comparing a standard distance-based route with a healthier route that minimizes exposure to high-risk asthma areas. The healthier route was different from the shortest path, demonstrating the system's effectiveness. The research also identified the best starting points for walking routes to the nearest parks to minimize asthma risk.
 
-
-
-
-
 In conclusion, the thesis successfully designed and demonstrated a system that predicts air pollution, models health risk zones (specifically for asthma), and uses this information to suggest healthier travel routes. This context-aware approach offers a practical way to mitigate the health impacts of air pollution on vulnerable populations in large cities.
